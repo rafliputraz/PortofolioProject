@@ -1,0 +1,1 @@
+Because of using a public Tableau, so i can't import the sql file to Tableau and have to do it manually through Excel. This excel file is for importing the data from SQL Queries to Tableau.
